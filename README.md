@@ -1,2 +1,2 @@
-# Action
-This is my personal templates for GitHub Actions.
+# Action 🔥
+Workflows for GitHub Actions.
